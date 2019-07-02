@@ -1,4 +1,4 @@
-M##  IDE:Intellij IDEA 2018.3.3
+##  IDE:Intellij IDEA 2018.3.3
 ## Version of Java: jdk1.8.0_171
 ## CWD: csc413-tankgame-carlosmcodes
 
