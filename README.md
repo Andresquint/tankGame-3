@@ -1,9 +1,4 @@
-# csc413-TankGame
-
-## Student Name : Carlos Lopez
-## Student ID : 918559153
-
-##  IDE:Intellij IDEA 2018.3.3
+M##  IDE:Intellij IDEA 2018.3.3
 ## Version of Java: jdk1.8.0_171
 ## CWD: csc413-tankgame-carlosmcodes
 
